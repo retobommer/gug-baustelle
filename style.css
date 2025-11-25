@@ -241,18 +241,13 @@ a {
     color: inherit;
 }
 
-a:hover {
-  color: var(--featured-text); 
-}
+
 
 p a {
     text-decoration: none;
     border-bottom: 1px solid;
 }
 
-p a:hover { 
-  color: var(--featured-text); 
-}
 
 .button { 
     display: inline-block;
