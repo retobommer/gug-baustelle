@@ -241,7 +241,9 @@ a {
     color: inherit;
 }
 
-
+.logo {
+  width: 20rem;
+}
 
 p a {
     text-decoration: none;
